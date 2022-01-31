@@ -16,3 +16,11 @@ alert("Hello")
 [1, 2].forEach(alert);
 ```
 > That's because javascript does not assume a before square brackets `[]` So the code is the last example is treated as a single statement. 
+
+## Variable - Summery
+
+> We can declare variables to store data by using the `var`, `let`, or `const` keywords.
+
+- `let` -- is a modern variable declaration.
+- `var` -- is an old-school variable declaration.
+- `const` -- is like `let`, but the value of the variable can not be changed
