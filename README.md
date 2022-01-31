@@ -23,4 +23,12 @@ alert("Hello")
 
 - `let` -- is a modern variable declaration.
 - `var` -- is an old-school variable declaration.
-- `const` -- is like `let`, but the value of the variable can not be changed
+- `const` -- is like `let`, but the value of the variable can not be changed.
+
+## Number - Summery
+- `NaN` -- It represent computational error.
+- `Infinity` represent mathematical Infinity. It is a special type of value thats grater than any number.
+
+## BigInt - Summery
+- `BigInt` type was recently added to the language to represent integers of arbitrary length.
+- A `BigInt` value is created by appending `n` to the end of an integer.
