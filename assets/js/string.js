@@ -7,4 +7,9 @@
 // alert(`Hello, ${name}!`);
 
 // Embedded 
-alert(`Expression, ${5+6}`);
+// alert(`Expression, ${5+6}`);
+
+// Undefined 
+let age = 23;
+age = undefined; 
+alert(age)

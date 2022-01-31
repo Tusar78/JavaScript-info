@@ -44,3 +44,20 @@ let phrase = `can embed another ${str}`;
 - Double quotes.
 - Single quotes.
 - Backtick.
+
+## Boolean - Summery
+- The boolean type has only two values: `true` and `false`
+- Boolean value also come as a result of comparisons.
+
+## The “null” value - Summery
+- It's just special value which represent "Nothing", "Empty" or "Value unknown".
+
+## The “undefined” value - Summery
+- The meaning of `undefined` is "value in not assigned".
+- If a variable is declared, but not assigned, then its value is `undefined`.
+- Technically, it is possible to explicitly assign `undefined` to a variable
+> But we don’t recommend doing that. Normally, one uses `null` to assign an “empty” or “unknown” value to a variable, while `undefined` is reserved as a default initial value for unassigned things.
+
+## Objects and Symbols - Summery
+> All other types are called “primitive” because their values can contain only a single thing (be it a string or a number or whatever). In contrast, objects are used to store collections of data and more complex entities.
+

@@ -16,3 +16,7 @@
 // alert(NaN ** 0);
 let nanToNumber = Math.pow(NaN, 0);
 console.log(nanToNumber);
+
+// BigInt
+let bigNumber = 1455545245465465546587656958459564565485496565n;
+console.log(typeof bigNumber);
