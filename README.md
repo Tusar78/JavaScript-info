@@ -32,3 +32,15 @@ alert("Hello")
 ## BigInt - Summery
 - `BigInt` type was recently added to the language to represent integers of arbitrary length.
 - A `BigInt` value is created by appending `n` to the end of an integer.
+
+## String - Summery
+> A string in JavaScript must be surrounded by quotes.
+```
+let str = "Hello";
+let str2 = 'String quotes are ok too';
+let phrase = `can embed another ${str}`;
+```
+> In JavaScript, there are 3 types of quotes.
+- Double quotes.
+- Single quotes.
+- Backtick.
